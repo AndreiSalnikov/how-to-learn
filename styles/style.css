@@ -19,7 +19,7 @@
   position: relative;    
 }
 
-.logo{
+.logo {
   background-image: url(../images/logo_place_header.svg);
 }
 
@@ -43,7 +43,7 @@
   font-weight: bold;
 }
 
-.header__subtitle{
+.header__subtitle {
   margin: 0;
   z-index: 2;
   position: absolute;
@@ -55,11 +55,11 @@
   font-weight:normal;
 }
 
-.header__link{
+.header__link {
   text-decoration: none;
 }
 
-.header__main-illustration{
+.header__main-illustration {
   position: absolute;
   bottom: 0;
   right: 0;
@@ -78,23 +78,23 @@
   z-index: 0;
 }
 
-.content{
+.content {
 }
 
-.description{
+.description {
   margin-top:100px;
   margin-bottom:100px;
 
 }
 
-.two-columns{
+.two-columns {
   display:flex;
   justify-content: space-between;
   width:80%;
   margin: auto;
 }
 
-.two-columns__brief{
+.two-columns__brief {
   margin: 0;
   width: 175px;
   color: #2f80ed;
@@ -111,7 +111,7 @@
 
 }
 
-.two-columns__paragraph{
+.two-columns__paragraph {
   margin: 0;
   font-size:24px;
   line-height:34px;
@@ -119,7 +119,7 @@
   font-weight: normal;
 }
 
-.two-columns__paragraph:last-child{
+.two-columns__paragraph:last-child {
   margin-bottom: 0px;
 }
 
@@ -142,7 +142,7 @@
   width: 60%;
 }
 
-.section-subtitle{
+.section-subtitle {
   font-weight: normal;
   line-height: 34px;
   font-size: 24px;
@@ -151,33 +151,33 @@
   text-align: center;
 }
 
-.table{
+.table {
   display: flex;
   width: 1100px;
   margin: 0 auto 0;
   flex-wrap: wrap; 
 }
 
-.table__cell{
+.table__cell {
   width: 250px;
   margin: 60px auto 0px;
 }
 
-.table__heading{
+.table__heading {
   margin: 0;
   line-height: 1.15em;
   font-size: 24px;
   font-weight: bold;
 }
 
-.table__text{
+.table__text {
   line-height: 1.2em;
   font-weight: normal;
   font-size: 18px;
   margin: 20px 0 0;
 }
 
-.feynman{
+.feynman {
   min-height: 890px;
   background-color: #f2f2f2;
   background-image: url(../images/feynman.png);
@@ -188,7 +188,7 @@
       
 }
 
-.feynman__title{
+.feynman__title {
   padding-top: 100px;
   text-align: center;
   margin:0 auto 70px;
@@ -198,14 +198,14 @@
   font-weight: bold;
 }
 
-.feynman__subtitle{
+.feynman__subtitle {
   text-align: center;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
 }
 
-.feynman__link{
+.feynman__link {
   text-decoration: none;
   position: absolute;
   top: 50%;
@@ -231,23 +231,23 @@
   padding-top: 90px;
 }
 
-.section-subtitle_theme_dark{
+.section-subtitle_theme_dark {
   color: #fff;
 }
 
-.table_theme_dark{
+.table_theme_dark {
   margin: 0 auto 90px;
 }
 
 
-.table__cell_theme_dark{
+.table__cell_theme_dark {
   color: #fff;
   width: 200px;
   margin: 80px auto 0px;
   z-index: 2;
 }
 
-.table__heading_theme_dark{
+.table__heading_theme_dark {
   margin: 0;
   line-height: 1.15em;
   font-size: 24px;
@@ -263,7 +263,7 @@
   height: 877px;
 }
 
-.table__text_theme_dark{
+.table__text_theme_dark {
   margin: 0;
 }
 
@@ -275,7 +275,7 @@
   padding-bottom: 40px;
 }
 
-.footer__columns{
+.footer__columns {
   display: flex;
   width: 90%;
   justify-content: space-between;
@@ -283,14 +283,14 @@
   margin: auto;
 }
 
-.footer__column_content_copyright{
+.footer__column_content_copyright {
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
-.logo_place_footer{
+.logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
   background-position:center;
   background-size:contain;
@@ -299,7 +299,7 @@
   height:32px;
 }
 
-.footer__author{
+.footer__author {
   margin: 18px 0 18px;
   color: #fff;
   line-height: 25px;
@@ -307,20 +307,20 @@
   font-weight: normal;
 }
 
-.footer__columns_content_info{
+.footer__columns_content_info {
 }
 
-.footer__columns_content_socials{
+.footer__columns_content_socials {
 }
 
-.footer__column-heading{
+.footer__column-heading {
   margin: 0 auto 20px;
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
 }
 
-.footer__column-links{
+.footer__column-links {
   margin: 0 auto 16px;
   line-height: 30px;
   font-size: 18px;
@@ -329,11 +329,7 @@
   padding-inline-start: 0;
 } 
 
-/*.footer__column-link:last-child{
-  margin-bottom: 16px;
-}*/
-
-.footer__social-icons{
+.footer__social-icons {
   margin: auto 10px auto 0;
   width: 16px;
   height: 16px;

@@ -216,7 +216,7 @@ div, header, img, content, section, p, h1, h2, li  {
 
 .kaufman {
   position: relative;
-  overflow: hidden; 
+  overflow: hidden;
   background-color: #1f1f1f;
 }
 
@@ -273,7 +273,7 @@ div, header, img, content, section, p, h1, h2, li  {
 
 .footer {
   position: relative;
-  background-color: #1f1f1f;;
+  background-color: #1f1f1f;
   padding-top: 60px;
   color: #fff;
   padding-bottom: 40px;
@@ -335,7 +335,7 @@ div, header, img, content, section, p, h1, h2, li  {
   list-style-type: none;
   padding-inline-start: 0px;
   margin-block-start: 20px;
-  margin-block-end: 16px
+  margin-block-end: 16px;
 }
 
  .footer__links{

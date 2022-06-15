@@ -214,7 +214,7 @@ div, header, img, content, section, p, h1, h2, li  {
   content:'\2192';
 }
 
-.kaufman{
+.kaufman {
   position: relative;
   overflow: hidden; 
   background-color: #1f1f1f;
@@ -271,12 +271,12 @@ div, header, img, content, section, p, h1, h2, li  {
   font-weight: normal;
 }
 
-.footer{
+.footer {
   position: relative;
   background-color: #1f1f1f;;
   padding-top: 60px;
   color: #fff;
-   padding-bottom: 40px;
+  padding-bottom: 40px;
 }
 
 .footer__columns{
@@ -284,7 +284,7 @@ div, header, img, content, section, p, h1, h2, li  {
   width: 90%;
   justify-content: space-between;
   min-height: 350px;
-  margin: auto ;
+  margin: auto;
 }
 
 .footer__columns__copyright{
@@ -325,7 +325,7 @@ div, header, img, content, section, p, h1, h2, li  {
   list-style-type: none;
   padding-inline-start: 0px;
   margin-block-start: 20px;
-  margin-block-end: 16px
+  margin-block-end: 16px;
 } 
 
  .footer__social-icon{

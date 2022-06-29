@@ -1,0 +1,8 @@
+.link::after {
+  content:'\2192';
+}
+
+.link:hover {
+  transition: opacity .3s ease-out;
+  opacity: .5;
+}

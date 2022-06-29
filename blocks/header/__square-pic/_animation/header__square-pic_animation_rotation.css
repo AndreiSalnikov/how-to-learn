@@ -1,0 +1,10 @@
+@keyframes rotation {
+    to {
+        transform: rotate(360deg);
+    }
+ }
+ 
+.header__square-pic_animation_rotation {
+    transform: rotate(-15deg);
+    animation: rotation 20s linear infinite;
+}

@@ -7,6 +7,5 @@
   background-color: #2f80ed;
   z-index: 0;
   max-width: 50%;
-  transform: rotate(-15deg);
-  animation: rotation 20s linear infinite;
+/*  Просто в брифе этот квадрат чуть под углом, поэтому решил сделать*/
 }
